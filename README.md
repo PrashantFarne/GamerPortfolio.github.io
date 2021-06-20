@@ -1,2 +1,5 @@
 # GamerPortfolio.github.io
-Created font end project of Gamer Portfolio.
+Created Front-end project on Angular.
+one page which shows how portfolio of gamer must be.
+Used only color for the UI.
+
